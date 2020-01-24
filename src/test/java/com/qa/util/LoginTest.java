@@ -7,6 +7,7 @@ public class LoginTest {
 	public void TestBase()
 	{
 		System.out.println("LoginTest");
+		System.out.println("LoginTest");
 	}
 
 }
