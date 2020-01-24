@@ -1,4 +1,4 @@
-package com.qa.util;
+package com.qa.test;
 
 import org.testng.annotations.Test;
 
